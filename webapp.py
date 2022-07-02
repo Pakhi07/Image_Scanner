@@ -47,7 +47,7 @@ def main_function():
             result=reader.readtext(np.array(input_image))
             for text in result:
                 result_text.append(text[1])
-            st.write(result_text)
+#             st.write(result_text)
 
         st.success("here you go!")
     else:
