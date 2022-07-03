@@ -12,11 +12,11 @@ https://user-images.githubusercontent.com/92666755/176999292-388d5bc1-0d81-4d25-
 
 ### How to implement on your local machine
 To run this webapp on your device, you need to install the following python modules:
-  -easyocr
-  -streamlit
-  -numpy
-  -pyrebase
-  -Pillow
-  -firebase
+   <br> -easyocr
+   <br>-streamlit
+   <br>-numpy
+   <br>-pyrebase
+   <br>-Pillow
+   <br>-firebase
   
 After installing all these modules, you need to run the code on your device using "streamlit run" command and you are good to go!
