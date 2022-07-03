@@ -23,3 +23,6 @@ To run this webapp on your device, you need to install the following python modu
    <br>-firebase
   
 After installing all these modules, you need to run the code on your device using "streamlit run" command and you are good to go!
+
+### Experience on this task
+This task was a bit challenging for me. I started developing an android app using flutter but was unable to implement it as one of the google ML Vision packages was not working properly. Then I came across the Streamlit library of python which is great for creating a webapp. I have also used Firebase as a database system to retrieve the history of scanned images.
