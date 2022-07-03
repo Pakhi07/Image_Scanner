@@ -10,3 +10,13 @@ This is an Image Scanning webapp built using a Python library called Streamlit a
 ### Screen Recording
 https://user-images.githubusercontent.com/92666755/176999292-388d5bc1-0d81-4d25-a3d1-a26e11ae67cb.mp4
 
+### How to implement on your local machine
+To run this webapp on your device, you need to install the following python modules:
+  -easyocr
+  -streamlit
+  -numpy
+  -pyrebase
+  -Pillow
+  -firebase
+  
+After installing all these modules, you need to run the code on your device using "streamlit run" command and you are good to go!
